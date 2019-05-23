@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <Stories 
         stories={stories}
-        defaultInterval={300000}
+        defaultInterval={3000}
         // width={432}
         // height={768}
         cta={{ link: 'https://rbe.zaviaerp.com/?zbe_hotel_id=225', text: 'Book now' }}
